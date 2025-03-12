@@ -1,0 +1,18 @@
+---
+title: "Limitations and Pitfalls of Generative AI"
+slug: "limitations-and-pitfalls"
+description: "An exploration of the key limitations and potential issues when using generative AI in academic contexts"
+order: 7
+---
+
+# Limitations and Pitfalls of Generative AI
+
+Despite their impressive capabilities, generative AI systems exhibit significant limitations that require careful consideration in academic contexts. One fundamental constraint is the "black box" nature of these models, which can generate convincing but incorrect information—sometimes called "hallucinations"—with no indication of uncertainty. This phenomenon occurs because these systems produce content based on statistical patterns rather than verified facts, and they lack mechanisms to distinguish between accurate and inaccurate information within their training data. For researchers using these tools to explore literature or generate content, this limitation necessitates rigorous verification against authoritative sources.
+
+Bias represents another critical concern in academic applications of AI. These systems inevitably reflect biases present in their training data, potentially perpetuating or amplifying problematic perspectives or underrepresentations. This issue extends beyond obvious prejudices to include more subtle forms of bias, such as overrepresentation of certain research traditions, methodological approaches, or geographical perspectives. The University of North Carolina's guide on generative AI notes that "many researchers who study the spread of misinformation...are concerned about GenAI's ability to easily and quickly spread false content." These biases can manifest in various ways, from citation patterns that favor already prominent scholars to content that inadequately represents diverse viewpoints.
+
+The temporal limitations of AI models also restrict their utility for current research topics. Most models have a "knowledge cutoff" date, after which they lack awareness of new publications, findings, or developments. This limitation proves particularly problematic in rapidly evolving fields where recent publications significantly influence current understanding. Additionally, these systems may struggle with highly specialized domain knowledge that appeared infrequently in training data, potentially leading to superficial or outdated treatment of complex concepts central to advanced research.
+
+Environmental and resource considerations also merit attention when evaluating AI use in academia. Large language models require substantial computational resources for both training and operation, with associated energy consumption and environmental impacts. The Scientific American has noted concerns about "increased demand for the natural resources that power [AI] processes, such as electricity and water." These resource requirements raise questions about sustainability and equitable access, particularly for researchers and institutions with limited computational infrastructure or in regions facing resource constraints.
+
+For effective academic application, users must develop strategies to mitigate these limitations. These might include triangulating AI-generated information against multiple authoritative sources, critically examining outputs for potential biases or oversimplifications, and maintaining awareness of the knowledge cutoff date relevant to the model being used. By understanding these constraints, researchers can better evaluate when AI assistance adds genuine value to scholarly work versus situations where traditional research methods may prove more reliable or appropriate. 
