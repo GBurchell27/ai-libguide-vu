@@ -38,7 +38,7 @@ export function SearchBar({ onSearch, placeholder = "Search...", initialValue = 
         />
         <button
           type="submit"
-          className="absolute right-2 bottom-2 top-2 px-4 py-2 text-sm font-medium text-white bg-primary-600 rounded-lg hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-700 dark:hover:bg-primary-800 dark:focus:ring-primary-800"
+          className="absolute right-2 bottom-2 top-2 flex items-center justify-center px-4 py-2 text-sm font-medium text-white bg-primary-600 rounded-lg hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-700 dark:hover:bg-primary-800 dark:focus:ring-primary-800"
         >
           Search
         </button>
